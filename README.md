@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/lrtf">
-  <img heigth="42%" src="https://github-readme-stats.vercel.app/api?username=lrtf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img heigth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrtf&layout=compact&theme=dracula&langs_count=16"/>
+  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=lrtf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrtf&layout=compact&theme=dracula&langs_count=16"/>
 </div>
 
 ##
